@@ -1,3 +1,9 @@
+This project is contributed by:
+- 23122003 Nguyen Van Linh
+- 23122022 Tran Chan Hiep
+- 23122026 Tran Hoang Gia Bao
+- 23122040 Nguyen Thi My Kim
+
 # [HCMUS - Math for AI] [Final Project] Implement Transformer From Scratch 
 
 This project implements the "Attention is All You Need" paper using PyTorch to build a Transformer model for English-Vietnamese translation.
